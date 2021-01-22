@@ -11,7 +11,16 @@ As they grew they had problems arised :
 + Scaling the features simultaneously with the introduction of new features worldwide was quite tough to be handled together. 
 
 
- ![Mono](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Monolithic-Architecture-Of-UBER-Microservice-Architecture-Edureka-768x730.png)
- ![Micro](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Microservice-Architecture-Of-UBER-Microservice-Architecture-Edureka-768x762.png)
+![Mono](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Monolithic-Architecture-Of-UBER-Microservice-Architecture-Edureka-768x730.png)
+ 
+#### Microservice Architecture
+
+To prevent any these problems in the future **Uber** decided to transition from monolithic to microservices.
++ The major change that we observe here is the introduction of API Gateway through which all the drivers and passengers are connected. From the API Gateway, all the internal points are connected such as passenger management, driver management, trip management and others.
+
++ The units are individual separate deployable units performing separate functionalities.
+-For Example: If you want to change anything in the billing microservices, then you just have to deploy only billing microservices and don’t have to deploy the others.
+
+![Micro](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/02/Microservice-Architecture-Of-UBER-Microservice-Architecture-Edureka-768x762.png)
  
  
