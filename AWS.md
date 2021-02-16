@@ -12,4 +12,4 @@ An AWS Elastic Beanstalk environment is a collection of AWS resources running an
 
 To publish use the AWS Toolkit for Visual Studio to publish your application to Elastic Beanstalk.
 
-![AWS2](https://user-images.githubusercontent.com/34166599/108118240-0b1a8b80-706c-11eb-90f8-fc0e71921826.JPG)
+![AWS2](https://user-images.githubusercontent.com/34166599/108130735-21c9de00-707e-11eb-8cca-8896a391f45c.JPG)
