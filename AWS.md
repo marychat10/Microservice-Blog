@@ -6,4 +6,4 @@
 
 An AWS Elastic Beanstalk environment is a collection of AWS resources running an application version. You can deploy multiple environments when you need to run multiple versions of an application. For example, you might have development, integration, and production environments.
 
-<img src="//C:\Users\marya\Downloads\AWS.jpg" alt="Example of uploading image to GitHub's CDN" width="500px">
+![AWS](https://user-images.githubusercontent.com/34166599/108118240-0b1a8b80-706c-11eb-90f8-fc0e71921826.JPG)
