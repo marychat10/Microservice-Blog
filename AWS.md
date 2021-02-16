@@ -27,4 +27,9 @@ To publish use the AWS Toolkit for Visual Studio to publish your application to 
 ![AWS6](https://user-images.githubusercontent.com/34166599/108131348-217e1280-707f-11eb-8337-c704e45c0b26.JPG)
 
 
+
+## Step 3 Go to the environment
+
+![AWS8](https://user-images.githubusercontent.com/34166599/108132059-41fa9c80-7080-11eb-96ac-a37c663c92d1.JPG)
+
 ![AWS7](https://user-images.githubusercontent.com/34166599/108131378-2b077a80-707f-11eb-84fe-59e4ee409831.JPG)
