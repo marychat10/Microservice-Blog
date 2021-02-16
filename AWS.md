@@ -14,12 +14,17 @@ To publish use the AWS Toolkit for Visual Studio to publish your application to 
 
 ![AWS2](https://user-images.githubusercontent.com/34166599/108130735-21c9de00-707e-11eb-8cca-8896a391f45c.JPG)
 
+
 ![AWS3](https://user-images.githubusercontent.com/34166599/108130888-5ccc1180-707e-11eb-8b73-f91dd5b7acd4.JPG)
+
 
 ![AWS4](https://user-images.githubusercontent.com/34166599/108130909-69506a00-707e-11eb-803b-216a60135ad9.JPG)
 
+
 ![AWS5](https://user-images.githubusercontent.com/34166599/108131327-19be6e00-707f-11eb-87fe-161bd635bb2b.JPG)
 
+
 ![AWS6](https://user-images.githubusercontent.com/34166599/108131348-217e1280-707f-11eb-8337-c704e45c0b26.JPG)
+
 
 ![AWS7](https://user-images.githubusercontent.com/34166599/108131378-2b077a80-707f-11eb-84fe-59e4ee409831.JPG)
