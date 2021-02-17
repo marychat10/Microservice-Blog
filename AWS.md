@@ -33,3 +33,8 @@ To publish use the AWS Toolkit for Visual Studio to publish your application to 
 ![AWS8](https://user-images.githubusercontent.com/34166599/108132059-41fa9c80-7080-11eb-96ac-a37c663c92d1.JPG)
 
 ![AWS7](https://user-images.githubusercontent.com/34166599/108131378-2b077a80-707f-11eb-84fe-59e4ee409831.JPG)
+
+
+#### Cloud is aiding Microservices
+
+For creating, running, and upgrading resilient and highly scalable applications, microservices are an excellent option. AWS offers a lot of controlled building blocks to handle any element of the implementation of microservices and offers all the resources required to substitute these components with open source alternatives. Due to the variety of IaaS, PaaS, SaaS solutions, and SDK packages provided by this cloud platform, Amazon Web Services is one of the best options for deploying a microservice-based application. To support software of any complexity and size, AWS offers a large array of building blocks.
